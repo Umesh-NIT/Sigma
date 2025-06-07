@@ -33,3 +33,5 @@ do
 { console.log(i);
     i++;
 } while (i < 6);
+console.log("End of the loop");
+// console.log("End of the loop");
